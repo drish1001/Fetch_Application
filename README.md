@@ -3,7 +3,7 @@
 
 The Fetch Application is an iOS application for displaying the items list based on listID and listName.
 
-## ✨ Demo
+## Demo
 An iOS native application depending on the platform you applied for that retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json. The application displays this list of items to the user based on the following requirements
 -  Display all the items grouped by "listId"
 -  Sort the results first by "listId" then by "name" when displaying.
