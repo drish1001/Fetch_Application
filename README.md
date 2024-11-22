@@ -35,6 +35,4 @@ Steps to Run
 ## Author
 
 👤 **Drishti Singh**
-
-- LinkedIn: [@drishti-singh1001](https://www.linkedin.com/in/drishti-singh1001/)
 - Github: [@drish1001](https://github.com/drish1001)
