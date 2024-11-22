@@ -4,7 +4,7 @@
 The Fetch Application is an iOS application for displaying the items list based on listID and listName.
 
 ## Demo
-An iOS native application depending on the platform you applied for that retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json. The application displays this list of items to the user based on the following requirements
+An iOS native application depending on the platform you applied for retrieves the data from https://fetch-hiring.s3.amazonaws.com/hiring.json. The application displays this list of items to the user based on the following requirements
 -  Display all the items grouped by "listId"
 -  Sort the results first by "listId" then by "name" when displaying.
 -  Filter out any items where "name" is blank or null.
@@ -27,12 +27,14 @@ https://github.com/drish1001/Fetch_Application/assets/36307309/1cd373f1-38e6-473
 
 Make sure you have Xcode & [iOS Simulator 17](https://developer.apple.com/documentation/xcode/installing-additional-simulator-runtimes) installed.
 
-To run the project - Import the project in Xcode and click on DemoView.swift file to see the preview of the application.
+Steps to Run
+ -  Import the project into Xcode.
+ -  Open the DemoView.swift file.
+ -  Use the preview feature in Xcode to simulate and view the application.
 
 ## Author
 
 👤 **Drishti Singh**
 
-- LinkedIn: [@drishti-singh1001](https://linkedin.com/drishti-singh1001)
-- Twitter: [@drish1001](https://twitter.com/Drish1001)
+- LinkedIn: [@drishti-singh1001](https://www.linkedin.com/in/drishti-singh1001/)
 - Github: [@drish1001](https://github.com/drish1001)
